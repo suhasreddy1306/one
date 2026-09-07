@@ -1200,7 +1200,7 @@
             <div class="container">
                 <div class="section-header">
                     <div class="title-group">
-                        <h2 id="cat-title">Browse Categories</h2>
+                        <h2 id="cat-title">Browse CATS</h2>
                         <p>Find exactly what you're looking for</p>
                     </div>
                     <a href="#" class="view-all">All Categories <i class="fas fa-arrow-right"></i></a>
