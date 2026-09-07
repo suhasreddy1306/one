@@ -1345,7 +1345,7 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                &copy; <span id="year"></span> NexusShop. All rights reserved.
+                &copy; <span id="year"></span> NexusShoppie. All rights reserved.
             </div>
         </div>
     </footer>
@@ -1701,7 +1701,7 @@
             }
         });
 
-        console.log('🚀 NexusShop — user‑friendly e‑commerce demo loaded.');
+        console.log('🚀 NexusShoppie — user‑friendly e‑commerce demo loaded.');
     </script>
 
 </body>
