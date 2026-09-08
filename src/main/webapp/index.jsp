@@ -1214,7 +1214,7 @@
             <div class="container">
                 <div class="section-header">
                     <div class="title-group">
-                        <h2 id="prod-title">Trending Now</h2>
+                        <h2 id="prod-title">Trending Now@@@@</h2>
                         <p>What's hot — popular picks from our community</p>
                     </div>
                     <a href="#" class="view-all">View All <i class="fas fa-arrow-right"></i></a>
